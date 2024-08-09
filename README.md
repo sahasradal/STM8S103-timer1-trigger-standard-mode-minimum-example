@@ -1,0 +1,1 @@
+# STM8S103-timer1-trigger-standard-mode-minimum-example
